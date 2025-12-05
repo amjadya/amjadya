@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**amjadya/amjadya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✧･ﾟ: *✧･ﾟ:* 𖦹 ⋆｡ﾟ🪐｡⋆ 𖦹 *:･ﾟ✧
 
-Here are some ideas to get you started:
+༺────────── ✦ ──────────༻  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+hi my name is ammmmmm jadddddddd  
+im working on an autonomous badminton playing robot right now :)  
+fullstack is really fun  
+feel free to reach out on linkedin  
+
+༺────────── ✦ ──────────༻  
+
+✧･ﾟ: *✧･ﾟ:* 𖦹 ⋆｡ﾟ🌙｡⋆ 𖦹 *:･ﾟ✧
+
+</div>
