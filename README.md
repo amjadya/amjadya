@@ -4,7 +4,7 @@
 
 ༺────────── ✦ ──────────༻  
 
-hi my name is ammmmmm jadddddddd  
+hi my name is am jadd  
 im working on an autonomous badminton playing robot right now :)  
 fullstack is really fun  
 feel free to reach out on linkedin  
